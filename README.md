@@ -44,8 +44,8 @@ FitBharat/
 1. **Download or Clone this Repository**
 
    ```bash
-   git clone https://github.com/AartiPatil30/INDIAN-HEALTH-WELLNESS-AND-PSYCHOLOGY.git
-   ```
+https://github.com/AartiPatil30/IHWP-project.git
+```
 
 2. **Open the Project Folder**
 
