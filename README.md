@@ -44,7 +44,7 @@ FitBharat/
 1. **Download or Clone this Repository**
 
    ```bash
-https://github.com/AartiPatil30/IHWP-project.git
+   git clone https://github.com/AartiPatil30/IHWP-project.git
 ```
 
 2. **Open the Project Folder**
